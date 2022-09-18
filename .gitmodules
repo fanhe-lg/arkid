@@ -1,0 +1,6 @@
+[submodule "arkid"]
+	path = arkid
+	url = git@github.com:longguikeji/arkid.git
+[submodule "arkid-frontend-vue3"]
+	path = arkid-frontend-vue3
+	url = git@github.com:longguikeji/arkid-frontend-vue3.git
